@@ -1,0 +1,7 @@
+deepcon:
+  image: psygrammer/deepcon:0.1
+  ports:
+    - "8888:8888"
+  volumes:
+    - ../:/home/jovyan/work/deepcon
+  tty: true
