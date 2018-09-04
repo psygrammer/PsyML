@@ -1,1 +1,1 @@
-docker exec -it docker_deepcon_1 bash
+docker exec -it docker_psyml_1 bash
