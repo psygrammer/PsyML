@@ -1,5 +1,8 @@
 # PsyML
+* 심리학 + 머신러닝 스터디 
+* 스터디 진행 그룹 : 싸이그래머 - https://www.facebook.com/groups/psygrammer
 
+## 커리큘럼
 |진행여부| 기간|스터디 이름 | 서브 주제  |
 |---|---|---|---|
 | 완료 | 2018.5~7  |  싸이ML 101 : Basics |  |
@@ -17,14 +20,14 @@
 
 
 
-# 실습 실행 (Docker)
+## 실습 실행 (Docker)
 
 터미널에서 현재 저장소 코드를 다운 받은 후, deepcon/docker 폴더로 이동. 그리고 아래의 명령 실행.
 ```
 docker$ docker-compose up
 ```
 
-# 설치 공통
+## 설치 공통
 * Docker 머신
   * 리눅스
     - 알아서
