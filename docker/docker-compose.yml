@@ -1,7 +1,8 @@
 psyml:
-  image: psygrammer/deepcon:0.1
+  image: psygrammer/deepcon:0.2
   ports:
     - "8888:8888"
+    - "6006:6006"
   volumes:
     - ../:/home/jovyan/work/psyml
   tty: true
