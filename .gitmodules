@@ -1,0 +1,3 @@
+[submodule "nlp_ml/atap"]
+	path = nlp_ml/atap
+	url = https://github.com/foxbook/atap.git
