@@ -1,3 +1,6 @@
 [submodule "nlp_ml/atap"]
 	path = nlp_ml/atap
 	url = https://github.com/foxbook/atap.git
+[submodule "tf_hands_on/handson-ml"]
+	path = tf_hands_on/handson-ml
+	url = https://github.com/rickiepark/handson-ml.git
